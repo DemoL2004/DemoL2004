@@ -47,7 +47,7 @@ CCNA-certified networking professional with hands-on experience in enterprise ne
 
 ## Featured Projects
 
-[### Enterprise Campus Network Lab](https://github.com/DemoL2004/enterprise-campus-network-lab)
+### [Enterprise Campus Network Lab](https://github.com/DemoL2004/enterprise-campus-network-lab)
 
 Designed and implemented a multi-site enterprise network environment using Cisco technologies and enterprise networking best practices.
 
@@ -77,7 +77,7 @@ Designed and implemented a multi-site enterprise network environment using Cisco
 
 ---
 
-[### Network Compliance & Remediation Engine](https://github.com/DemoL2004/network-compliance-engine)
+### [Network Compliance & Remediation Engine](https://github.com/DemoL2004/network-compliance-engine)
 
 Infrastructure automation platform built to audit network devices, verify compliance, and automatically remediate configuration drift.
 
