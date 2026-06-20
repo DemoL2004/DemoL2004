@@ -49,31 +49,30 @@ CCNA-certified networking professional with hands-on experience in enterprise ne
 
 ### [Enterprise Campus Network Lab](https://github.com/DemoL2004/enterprise-campus-network-lab)
 
-Designed and implemented a multi-site enterprise network environment using Cisco technologies and enterprise networking best practices.
+Designed and implemented a dual-stack enterprise campus network in Cisco Packet Tracer featuring OSPFv2/v3, HSRP, RSTP, EtherChannel (LACP), NAT/PAT, and centralized network management services.
 
-**Key Features**
+### Highlights
 
-* VLAN segmentation
-* Inter-VLAN Routing
-* OSPF Dynamic Routing
-* EtherChannel (LACP)
-* HSRP Gateway Redundancy
-* ACL-based Traffic Control
-* DHCP Services
-* IPv4 & IPv6 Deployment
-* Network Security Hardening
-* Enterprise Switching Architecture
+- Multi-department campus architecture (HQ, Engineering, Marketing)
+- Inter-VLAN routing and enterprise switching design
+- HSRP gateway redundancy with STP path optimization
+- OSPFv2 and OSPFv3 dynamic routing
+- WLC-managed wireless infrastructure with corporate and guest WLANs
+- Layer 2 security using DHCP Snooping, Dynamic ARP Inspection (DAI), BPDU Guard, and Port Security
+- Centralized management through SSH, SNMP, Syslog, and NTP
+- IPv4/IPv6 dual-stack deployment
 
-**Technologies**
+### Troubleshooting & Operations
 
-* Cisco IOS
-* EVE-NG
-* Packet Tracer
-* OSPF
-* HSRP
-* VLANs
-* ACLs
-* DHCP
+- Resolved HSRP/STP alignment issues affecting traffic paths
+- Investigated EtherChannel and DHCP Snooping interactions
+- Diagnosed Packet Tracer ACL persistence limitations
+- Documented DHCPv6 and WLC platform constraints
+- Verified failover, routing convergence, wireless connectivity, NAT/PAT, and IPv6 reachability
+
+### Technologies
+
+`Cisco IOS` `Packet Tracer` `OSPFv2` `OSPFv3` `HSRP` `RSTP` `EtherChannel (LACP)` `VLANs` `ACLs` `DHCP Snooping` `DAI` `SNMP` `Syslog` `NTP` `WLC` `IPv4` `IPv6`
 
 ---
 
