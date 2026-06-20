@@ -49,56 +49,18 @@ CCNA-certified networking professional with hands-on experience in enterprise ne
 
 ### [Enterprise Campus Network Lab](https://github.com/DemoL2004/enterprise-campus-network-lab)
 
-Designed and implemented a dual-stack enterprise campus network in Cisco Packet Tracer featuring OSPFv2/v3, HSRP, RSTP, EtherChannel (LACP), NAT/PAT, and centralized network management services.
+Built a dual-stack enterprise campus network featuring OSPFv2/v3, HSRP, RSTP, EtherChannel, WLC-managed wireless infrastructure, NAT/PAT, and centralized management services.
 
-### Highlights
+**Technologies:** Cisco IOS, Packet Tracer, OSPFv2/v3, HSRP, RSTP, EtherChannel, SNMP, Syslog, NTP, WLC, IPv4, IPv6
 
-- Multi-department campus architecture (HQ, Engineering, Marketing)
-- Inter-VLAN routing and enterprise switching design
-- HSRP gateway redundancy with STP path optimization
-- OSPFv2 and OSPFv3 dynamic routing
-- WLC-managed wireless infrastructure with corporate and guest WLANs
-- Layer 2 security using DHCP Snooping, Dynamic ARP Inspection (DAI), BPDU Guard, and Port Security
-- Centralized management through SSH, SNMP, Syslog, and NTP
-- IPv4/IPv6 dual-stack deployment
-
-### Troubleshooting & Operations
-
-- Resolved HSRP/STP alignment issues affecting traffic paths
-- Investigated EtherChannel and DHCP Snooping interactions
-- Diagnosed Packet Tracer ACL persistence limitations
-- Documented DHCPv6 and WLC platform constraints
-- Verified failover, routing convergence, wireless connectivity, NAT/PAT, and IPv6 reachability
-
-### Technologies
-
-`Cisco IOS` `Packet Tracer` `OSPFv2` `OSPFv3` `HSRP` `RSTP` `EtherChannel (LACP)` `VLANs` `ACLs` `DHCP Snooping` `DAI` `SNMP` `Syslog` `NTP` `WLC` `IPv4` `IPv6`
 
 ---
 
 ### [Network Compliance & Remediation Engine](https://github.com/DemoL2004/network-compliance-engine)
 
-Infrastructure automation platform built to audit network devices, verify compliance, and automatically remediate configuration drift.
+Developed a Python-based compliance platform that audits Cisco IOS devices, detects configuration drift, generates compliance reports, and automatically remediates supported deviations.
 
-**Key Features**
-
-* Automated Configuration Collection
-* Compliance Verification
-* Configuration Drift Detection
-* Automated Remediation
-* Multi-Device Support
-* Inventory Collection
-* Centralized Reporting
-
-**Technologies**
-
-* Python
-* Netmiko
-* Jinja2
-* YAML
-* Docker
-* Linux
-
+**Technologies:** Python, Netmiko, Jinja2, YAML, Docker, Linux, Cisco IOS, EVE-NG
 ## Current Focus
 
 * Network Operations (NOC)
